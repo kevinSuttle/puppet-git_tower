@@ -1,12 +1,12 @@
-# Install Github for Mac Puppet Module for Boxen
+# Install Git Tower for Mac Puppet Module for Boxen
 
-GitHub for Mac - The easiest way to share your code with GitHub
+Git Tower - The easiest way to share your code with GitHub
 
-See mac.github.com for more. 
+See git-tower.com for more. 
 
 ## Usage
 
-```include github_for_mac```
+```include git_tower```
 
 
 ## Development
