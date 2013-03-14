@@ -1,6 +1,6 @@
 # Install Git Tower for Mac Puppet Module for Boxen
 
-Git Tower - The easiest way to share your code with GitHub
+Git Tower - "The most powerful git client for Mac"
 
 See git-tower.com for more. 
 
